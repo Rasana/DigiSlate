@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\letters\digislate\digislate\source.cpp(117): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  DigiSlate.vcxproj -> D:\Letters\DigiSlate\Debug\DigiSlate.exe
